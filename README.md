@@ -1,2 +1,3 @@
-# Zeroth_DEMO
+# Zeroth-DEMO
 This is my FIRST Git Repository
+Author - Prabhash Mandal
